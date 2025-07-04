@@ -1,0 +1,29 @@
+body {background-color: #e2e2e2d1;}
+
+h1{color: rgb(25, 0, 255);
+text-align: center;}
+
+p {
+    font-size: 22px;
+    text-align: justify;
+    line-height: 1.8;
+}
+
+ul, li {
+    margin-bottom: 10px;
+    font-size: 18px;
+    text-align: left;
+    line-height: 1.5;
+}
+
+.sem-bullets {
+    list-style-type: none;
+    padding-left: 0;
+    font-weight: bold;
+}
+td img {width: 100%;}
+img{border-radius: 8px;}
+
+a:hover {color: darkgreen}
+
+#mensagem{ display: none;}
